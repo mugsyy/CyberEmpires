@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "project_number": "1079441469917",
+    "project_id": "cyberempire-6aa6c",
+    "storage_bucket": "cyberempire-6aa6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079441469917:ios:5eef9c0ec36c4d202c4634",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.Cyber-Empire"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIQXs9ckW6YYiByWXS-y3HUbeuY5XfiJ0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
